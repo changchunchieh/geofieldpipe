@@ -1,0 +1,22 @@
+{
+  "input": {
+    "path": "data/test_data.csv",
+    "format": "csv",
+    "source_crs": "EPSG:4326"
+  },
+  "output": {
+    "path": "data/output_result_csv.geojson",
+    "format": "geojson",
+    "target_crs": "EPSG:3857"
+  },
+  "field_mappings": [
+    {"target": "ID", "expression": "int([id])"},
+    {"target": "NAME", "expression": "[name]"},
+    {"target": "TYPE", "expression": "[type]"},
+    {"target": "VALUE", "expression": "float([value])"},
+    {"target": "CODE", "expression": "[code]"},
+    {"target": "LONGITUDE", "expression": "float([longitude])"},
+    {"target": "LATITUDE", "expression": "float([latitude])"},
+    {"target": "STATUS", "expression": "iff(float([value]) > 200, 'high', 'low')"}
+  ]
+}

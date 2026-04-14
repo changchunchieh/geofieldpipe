@@ -1,0 +1,530 @@
+[
+  {
+    "code": "EPSG:4326",
+    "name": "WGS 84"
+  },
+  {
+    "code": "EPSG:3857",
+    "name": "WGS 84 / Pseudo-Mercator"
+  },
+  {
+    "code": "EPSG:4490",
+    "name": "China Geodetic Coordinate System 2000"
+  },
+  {
+    "code": "EPSG:2383",
+    "name": "Xian 1980 / 3-degree Gauss-Kruger CM 114E"
+  },
+  {
+    "code": "EPSG:4214",
+    "name": "Beijing 1954"
+  },
+  {
+    "code": "EPSG:32649",
+    "name": "WGS 84 / UTM zone 49N"
+  },
+  {
+    "code": "EPSG:32650",
+    "name": "WGS 84 / UTM zone 50N"
+  },
+  {
+    "code": "EPSG:32749",
+    "name": "WGS 84 / UTM zone 49S"
+  },
+  {
+    "code": "EPSG:32750",
+    "name": "WGS 84 / UTM zone 50S"
+  },
+  {
+    "code": "EPSG:6933",
+    "name": "WGS 84 / NSIDC EASE-Grid 2.0 Global"
+  },
+  {
+    "code": "EPSG:3413",
+    "name": "WGS 84 / NSIDC Sea Ice Polar Stereographic North"
+  },
+  {
+    "code": "EPSG:4978",
+    "name": "WGS 84"
+  },
+  {
+    "code": "EPSG:32601",
+    "name": "WGS 84 / UTM zone 1N"
+  },
+  {
+    "code": "EPSG:32602",
+    "name": "WGS 84 / UTM zone 2N"
+  },
+  {
+    "code": "EPSG:32603",
+    "name": "WGS 84 / UTM zone 3N"
+  },
+  {
+    "code": "EPSG:32604",
+    "name": "WGS 84 / UTM zone 4N"
+  },
+  {
+    "code": "EPSG:32605",
+    "name": "WGS 84 / UTM zone 5N"
+  },
+  {
+    "code": "EPSG:32606",
+    "name": "WGS 84 / UTM zone 6N"
+  },
+  {
+    "code": "EPSG:32607",
+    "name": "WGS 84 / UTM zone 7N"
+  },
+  {
+    "code": "EPSG:32608",
+    "name": "WGS 84 / UTM zone 8N"
+  },
+  {
+    "code": "EPSG:32609",
+    "name": "WGS 84 / UTM zone 9N"
+  },
+  {
+    "code": "EPSG:32610",
+    "name": "WGS 84 / UTM zone 10N"
+  },
+  {
+    "code": "EPSG:32611",
+    "name": "WGS 84 / UTM zone 11N"
+  },
+  {
+    "code": "EPSG:32612",
+    "name": "WGS 84 / UTM zone 12N"
+  },
+  {
+    "code": "EPSG:32613",
+    "name": "WGS 84 / UTM zone 13N"
+  },
+  {
+    "code": "EPSG:32614",
+    "name": "WGS 84 / UTM zone 14N"
+  },
+  {
+    "code": "EPSG:32615",
+    "name": "WGS 84 / UTM zone 15N"
+  },
+  {
+    "code": "EPSG:32616",
+    "name": "WGS 84 / UTM zone 16N"
+  },
+  {
+    "code": "EPSG:32617",
+    "name": "WGS 84 / UTM zone 17N"
+  },
+  {
+    "code": "EPSG:32618",
+    "name": "WGS 84 / UTM zone 18N"
+  },
+  {
+    "code": "EPSG:32619",
+    "name": "WGS 84 / UTM zone 19N"
+  },
+  {
+    "code": "EPSG:32620",
+    "name": "WGS 84 / UTM zone 20N"
+  },
+  {
+    "code": "EPSG:32621",
+    "name": "WGS 84 / UTM zone 21N"
+  },
+  {
+    "code": "EPSG:32622",
+    "name": "WGS 84 / UTM zone 22N"
+  },
+  {
+    "code": "EPSG:32623",
+    "name": "WGS 84 / UTM zone 23N"
+  },
+  {
+    "code": "EPSG:32624",
+    "name": "WGS 84 / UTM zone 24N"
+  },
+  {
+    "code": "EPSG:32625",
+    "name": "WGS 84 / UTM zone 25N"
+  },
+  {
+    "code": "EPSG:32626",
+    "name": "WGS 84 / UTM zone 26N"
+  },
+  {
+    "code": "EPSG:32627",
+    "name": "WGS 84 / UTM zone 27N"
+  },
+  {
+    "code": "EPSG:32628",
+    "name": "WGS 84 / UTM zone 28N"
+  },
+  {
+    "code": "EPSG:32629",
+    "name": "WGS 84 / UTM zone 29N"
+  },
+  {
+    "code": "EPSG:32630",
+    "name": "WGS 84 / UTM zone 30N"
+  },
+  {
+    "code": "EPSG:32631",
+    "name": "WGS 84 / UTM zone 31N"
+  },
+  {
+    "code": "EPSG:32632",
+    "name": "WGS 84 / UTM zone 32N"
+  },
+  {
+    "code": "EPSG:32633",
+    "name": "WGS 84 / UTM zone 33N"
+  },
+  {
+    "code": "EPSG:32634",
+    "name": "WGS 84 / UTM zone 34N"
+  },
+  {
+    "code": "EPSG:32635",
+    "name": "WGS 84 / UTM zone 35N"
+  },
+  {
+    "code": "EPSG:32636",
+    "name": "WGS 84 / UTM zone 36N"
+  },
+  {
+    "code": "EPSG:32637",
+    "name": "WGS 84 / UTM zone 37N"
+  },
+  {
+    "code": "EPSG:32638",
+    "name": "WGS 84 / UTM zone 38N"
+  },
+  {
+    "code": "EPSG:32639",
+    "name": "WGS 84 / UTM zone 39N"
+  },
+  {
+    "code": "EPSG:32640",
+    "name": "WGS 84 / UTM zone 40N"
+  },
+  {
+    "code": "EPSG:32641",
+    "name": "WGS 84 / UTM zone 41N"
+  },
+  {
+    "code": "EPSG:32642",
+    "name": "WGS 84 / UTM zone 42N"
+  },
+  {
+    "code": "EPSG:32643",
+    "name": "WGS 84 / UTM zone 43N"
+  },
+  {
+    "code": "EPSG:32644",
+    "name": "WGS 84 / UTM zone 44N"
+  },
+  {
+    "code": "EPSG:32645",
+    "name": "WGS 84 / UTM zone 45N"
+  },
+  {
+    "code": "EPSG:32646",
+    "name": "WGS 84 / UTM zone 46N"
+  },
+  {
+    "code": "EPSG:32647",
+    "name": "WGS 84 / UTM zone 47N"
+  },
+  {
+    "code": "EPSG:32648",
+    "name": "WGS 84 / UTM zone 48N"
+  },
+  {
+    "code": "EPSG:32649",
+    "name": "WGS 84 / UTM zone 49N"
+  },
+  {
+    "code": "EPSG:32650",
+    "name": "WGS 84 / UTM zone 50N"
+  },
+  {
+    "code": "EPSG:32651",
+    "name": "WGS 84 / UTM zone 51N"
+  },
+  {
+    "code": "EPSG:32652",
+    "name": "WGS 84 / UTM zone 52N"
+  },
+  {
+    "code": "EPSG:32653",
+    "name": "WGS 84 / UTM zone 53N"
+  },
+  {
+    "code": "EPSG:32654",
+    "name": "WGS 84 / UTM zone 54N"
+  },
+  {
+    "code": "EPSG:32655",
+    "name": "WGS 84 / UTM zone 55N"
+  },
+  {
+    "code": "EPSG:32656",
+    "name": "WGS 84 / UTM zone 56N"
+  },
+  {
+    "code": "EPSG:32657",
+    "name": "WGS 84 / UTM zone 57N"
+  },
+  {
+    "code": "EPSG:32658",
+    "name": "WGS 84 / UTM zone 58N"
+  },
+  {
+    "code": "EPSG:32659",
+    "name": "WGS 84 / UTM zone 59N"
+  },
+  {
+    "code": "EPSG:32660",
+    "name": "WGS 84 / UTM zone 60N"
+  },
+  {
+    "code": "EPSG:32701",
+    "name": "WGS 84 / UTM zone 1S"
+  },
+  {
+    "code": "EPSG:32702",
+    "name": "WGS 84 / UTM zone 2S"
+  },
+  {
+    "code": "EPSG:32703",
+    "name": "WGS 84 / UTM zone 3S"
+  },
+  {
+    "code": "EPSG:32704",
+    "name": "WGS 84 / UTM zone 4S"
+  },
+  {
+    "code": "EPSG:32705",
+    "name": "WGS 84 / UTM zone 5S"
+  },
+  {
+    "code": "EPSG:32706",
+    "name": "WGS 84 / UTM zone 6S"
+  },
+  {
+    "code": "EPSG:32707",
+    "name": "WGS 84 / UTM zone 7S"
+  },
+  {
+    "code": "EPSG:32708",
+    "name": "WGS 84 / UTM zone 8S"
+  },
+  {
+    "code": "EPSG:32709",
+    "name": "WGS 84 / UTM zone 9S"
+  },
+  {
+    "code": "EPSG:32710",
+    "name": "WGS 84 / UTM zone 10S"
+  },
+  {
+    "code": "EPSG:32711",
+    "name": "WGS 84 / UTM zone 11S"
+  },
+  {
+    "code": "EPSG:32712",
+    "name": "WGS 84 / UTM zone 12S"
+  },
+  {
+    "code": "EPSG:32713",
+    "name": "WGS 84 / UTM zone 13S"
+  },
+  {
+    "code": "EPSG:32714",
+    "name": "WGS 84 / UTM zone 14S"
+  },
+  {
+    "code": "EPSG:32715",
+    "name": "WGS 84 / UTM zone 15S"
+  },
+  {
+    "code": "EPSG:32716",
+    "name": "WGS 84 / UTM zone 16S"
+  },
+  {
+    "code": "EPSG:32717",
+    "name": "WGS 84 / UTM zone 17S"
+  },
+  {
+    "code": "EPSG:32718",
+    "name": "WGS 84 / UTM zone 18S"
+  },
+  {
+    "code": "EPSG:32719",
+    "name": "WGS 84 / UTM zone 19S"
+  },
+  {
+    "code": "EPSG:32720",
+    "name": "WGS 84 / UTM zone 20S"
+  },
+  {
+    "code": "EPSG:32721",
+    "name": "WGS 84 / UTM zone 21S"
+  },
+  {
+    "code": "EPSG:32722",
+    "name": "WGS 84 / UTM zone 22S"
+  },
+  {
+    "code": "EPSG:32723",
+    "name": "WGS 84 / UTM zone 23S"
+  },
+  {
+    "code": "EPSG:32724",
+    "name": "WGS 84 / UTM zone 24S"
+  },
+  {
+    "code": "EPSG:32725",
+    "name": "WGS 84 / UTM zone 25S"
+  },
+  {
+    "code": "EPSG:32726",
+    "name": "WGS 84 / UTM zone 26S"
+  },
+  {
+    "code": "EPSG:32727",
+    "name": "WGS 84 / UTM zone 27S"
+  },
+  {
+    "code": "EPSG:32728",
+    "name": "WGS 84 / UTM zone 28S"
+  },
+  {
+    "code": "EPSG:32729",
+    "name": "WGS 84 / UTM zone 29S"
+  },
+  {
+    "code": "EPSG:32730",
+    "name": "WGS 84 / UTM zone 30S"
+  },
+  {
+    "code": "EPSG:32731",
+    "name": "WGS 84 / UTM zone 31S"
+  },
+  {
+    "code": "EPSG:32732",
+    "name": "WGS 84 / UTM zone 32S"
+  },
+  {
+    "code": "EPSG:32733",
+    "name": "WGS 84 / UTM zone 33S"
+  },
+  {
+    "code": "EPSG:32734",
+    "name": "WGS 84 / UTM zone 34S"
+  },
+  {
+    "code": "EPSG:32735",
+    "name": "WGS 84 / UTM zone 35S"
+  },
+  {
+    "code": "EPSG:32736",
+    "name": "WGS 84 / UTM zone 36S"
+  },
+  {
+    "code": "EPSG:32737",
+    "name": "WGS 84 / UTM zone 37S"
+  },
+  {
+    "code": "EPSG:32738",
+    "name": "WGS 84 / UTM zone 38S"
+  },
+  {
+    "code": "EPSG:32739",
+    "name": "WGS 84 / UTM zone 39S"
+  },
+  {
+    "code": "EPSG:32740",
+    "name": "WGS 84 / UTM zone 40S"
+  },
+  {
+    "code": "EPSG:32741",
+    "name": "WGS 84 / UTM zone 41S"
+  },
+  {
+    "code": "EPSG:32742",
+    "name": "WGS 84 / UTM zone 42S"
+  },
+  {
+    "code": "EPSG:32743",
+    "name": "WGS 84 / UTM zone 43S"
+  },
+  {
+    "code": "EPSG:32744",
+    "name": "WGS 84 / UTM zone 44S"
+  },
+  {
+    "code": "EPSG:32745",
+    "name": "WGS 84 / UTM zone 45S"
+  },
+  {
+    "code": "EPSG:32746",
+    "name": "WGS 84 / UTM zone 46S"
+  },
+  {
+    "code": "EPSG:32747",
+    "name": "WGS 84 / UTM zone 47S"
+  },
+  {
+    "code": "EPSG:32748",
+    "name": "WGS 84 / UTM zone 48S"
+  },
+  {
+    "code": "EPSG:32749",
+    "name": "WGS 84 / UTM zone 49S"
+  },
+  {
+    "code": "EPSG:32750",
+    "name": "WGS 84 / UTM zone 50S"
+  },
+  {
+    "code": "EPSG:32751",
+    "name": "WGS 84 / UTM zone 51S"
+  },
+  {
+    "code": "EPSG:32752",
+    "name": "WGS 84 / UTM zone 52S"
+  },
+  {
+    "code": "EPSG:32753",
+    "name": "WGS 84 / UTM zone 53S"
+  },
+  {
+    "code": "EPSG:32754",
+    "name": "WGS 84 / UTM zone 54S"
+  },
+  {
+    "code": "EPSG:32755",
+    "name": "WGS 84 / UTM zone 55S"
+  },
+  {
+    "code": "EPSG:32756",
+    "name": "WGS 84 / UTM zone 56S"
+  },
+  {
+    "code": "EPSG:32757",
+    "name": "WGS 84 / UTM zone 57S"
+  },
+  {
+    "code": "EPSG:32758",
+    "name": "WGS 84 / UTM zone 58S"
+  },
+  {
+    "code": "EPSG:32759",
+    "name": "WGS 84 / UTM zone 59S"
+  },
+  {
+    "code": "EPSG:32760",
+    "name": "WGS 84 / UTM zone 60S"
+  }
+]

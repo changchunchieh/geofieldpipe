@@ -1,0 +1,24 @@
+{
+  "input": {
+    "path": "data/test_data.geojson",
+    "format": "geojson",
+    "source_crs": "EPSG:4326"
+  },
+  "output": {
+    "path": "data/output_result_complex.geojson",
+    "format": "geojson",
+    "target_crs": "EPSG:3857"
+  },
+  "field_mappings": [
+    {"target": "ID", "expression": "[id]"},
+    {"target": "NAME", "expression": "concat('Point_', str([id]))"},
+    {"target": "TYPE", "expression": "[type]"},
+    {"target": "VALUE", "expression": "round([value], 2)"},
+    {"target": "CODE", "expression": "[code]"},
+    {"target": "X", "expression": "[geometry].x"},
+    {"target": "Y", "expression": "[geometry].y"},
+    {"target": "STATUS", "expression": "iff([value] > 200, 'high', 'low')"},
+    {"target": "CATEGORY", "expression": "iff([value] < 150, 'low', iff([value] < 250, 'medium', 'high'))"},
+    {"target": "AREA", "expression": "round([value] * 10, 2)"}
+  ]
+}

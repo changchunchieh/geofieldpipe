@@ -1,0 +1,22 @@
+{
+  "input": {
+    "path": "data/test_buildings.geojson",
+    "format": "geojson",
+    "source_crs": "EPSG:4326"
+  },
+  "output": {
+    "path": "output/test_3d_field.shp",
+    "format": "shp",
+    "target_crs": "EPSG:4326"
+  },
+  "geometry": {
+    "z_source": {
+      "expression": "[height]"
+    }
+  },
+  "field_mappings": [
+    {"target": "ID", "expression": "[id]"},
+    {"target": "NAME", "expression": "[name]"},
+    {"target": "HEIGHT", "expression": "[height]"}
+  ]
+}

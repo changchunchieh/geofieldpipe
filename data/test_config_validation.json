@@ -1,0 +1,18 @@
+{
+  "input": {
+    "path": "data/test_points.geojson",
+    "format": "geojson",
+    "source_crs": "EPSG:4326"
+  },
+  "output": {
+    "path": "output/test_validation.geojson",
+    "format": "geojson",
+    "target_crs": "EPSG:3857"
+  },
+  "field_mappings": [
+    {"target": "id", "expression": "[id]"},
+    {"target": "name", "expression": "[name]"},
+    {"target": "lat", "expression": "[geometry].y"},
+    {"target": "lon", "expression": "[geometry].x"}
+  ]
+}

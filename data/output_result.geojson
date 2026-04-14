@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "NAME": "测试点1",
+        "TYPE": "point",
+        "VALUE": 100.5,
+        "CODE": "A",
+        "X": 12957254.769864663,
+        "Y": 4852582.08286469,
+        "STATUS": "low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12957254.769864663,
+          4852582.08286469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 2,
+        "NAME": "测试点2",
+        "TYPE": "point",
+        "VALUE": 200.8,
+        "CODE": "B",
+        "X": 12958367.964772597,
+        "Y": 4854033.408128444,
+        "STATUS": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12958367.964772597,
+          4854033.408128444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 3,
+        "NAME": "测试点3",
+        "TYPE": "point",
+        "VALUE": 300.2,
+        "CODE": "C",
+        "X": 12959481.15968053,
+        "Y": 4855484.945337978,
+        "STATUS": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12959481.15968053,
+          4855484.945337978
+        ]
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:3857"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+id,name,type,value,code,longitude,latitude
+1,测试点1,point,100.5,A,116.397,39.908
+2,测试点2,point,200.75,B,116.407,39.918
+3,测试点3,point,300.25,C,116.417,39.928

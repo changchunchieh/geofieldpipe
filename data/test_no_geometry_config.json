@@ -1,0 +1,16 @@
+{
+  "input": {
+    "path": "f:\\geoFieldPipe\\data\\test_points.geojson",
+    "format": "geojson",
+    "source_crs": "EPSG:4326"
+  },
+  "output": {
+    "path": "f:\\geoFieldPipe\\output\\test_no_geometry.shp",
+    "format": "shp",
+    "target_crs": "EPSG:3857"
+  },
+  "field_mappings": [
+    {"target": "id", "expression": "[id]"},
+    {"target": "name", "expression": "[name]"}
+  ]
+}

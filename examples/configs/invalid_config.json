@@ -1,0 +1,11 @@
+{
+  "input": {
+    "format": "geojson"
+  },
+  "output": {
+    "format": "geojson"
+  },
+  "field_mappings": [
+    {"expression": "[id]"}
+  ]
+}

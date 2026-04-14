@@ -1,0 +1,22 @@
+{
+  "input": {
+    "path": "data/test_data.geojson",
+    "format": "geojson",
+    "source_crs": "EPSG:4326"
+  },
+  "output": {
+    "path": "data/output_result.geojson",
+    "format": "geojson",
+    "target_crs": "EPSG:3857"
+  },
+  "field_mappings": [
+    {"target": "ID", "expression": "[id]"},
+    {"target": "NAME", "expression": "[name]"},
+    {"target": "TYPE", "expression": "[type]"},
+    {"target": "VALUE", "expression": "round([value], 1)"},
+    {"target": "CODE", "expression": "[code]"},
+    {"target": "X", "expression": "[geometry].x"},
+    {"target": "Y", "expression": "[geometry].y"},
+    {"target": "STATUS", "expression": "iff([value] > 200, 'high', 'low')"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "input": {
+    "path": "f:\\geoFieldPipe\\data\\test_points.geojson",
+    "format": "geojson",
+    "source_crs": "EPSG:4326"
+  },
+  "output": {
+    "path": "f:\\geoFieldPipe\\output\\test_3d_to_2d.shp",
+    "format": "shp",
+    "target_crs": "EPSG:3857"
+  },
+  "geometry": {
+    "z_source": {
+      "value": 10.0
+    },
+    "output_dimension": "2D"
+  },
+  "field_mappings": [
+    {"target": "id", "expression": "[id]"},
+    {"target": "name", "expression": "[name]"}
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "测试点1",
+        "type": "point",
+        "value": 100.5,
+        "code": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.397, 39.908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "测试点2",
+        "type": "point",
+        "value": 200.75,
+        "code": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.407, 39.918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "测试点3",
+        "type": "point",
+        "value": 300.25,
+        "code": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.417, 39.928]
+      }
+    }
+  ]
+}
