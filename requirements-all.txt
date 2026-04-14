@@ -1,0 +1,4 @@
+# GeoFieldPipe 完整依赖（包含所有可选功能）
+-r requirements.txt
+-r requirements-optional.txt
+-r requirements-dev.txt

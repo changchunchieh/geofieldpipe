@@ -1,0 +1,8 @@
+# GeoFieldPipe 核心依赖
+pyshp>=2.3.1
+shapely>=2.0.0
+pyproj>=3.0.0
+chardet>=5.0.0
+PyQt5>=5.15.0
+numpy>=1.20.0
+ezdxf>=1.0.0
