@@ -1,9 +1,5 @@
 # GeoFieldPipe - 地理数据转换工具
 
-<p align="center">
-  <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=geographic%20data%20conversion%20tool%20logo%20with%20pipeline%20and%20map%20icon%2C%20professional%20design%2C%20blue%20and%20green%20colors&image_size=square_hd" alt="GeoFieldPipe Logo" width="200">
-</p>
-
 ## 📋 项目简介
 
 GeoFieldPipe 是一个功能强大的地理数据转换工具，支持多种格式数据的读写、坐标系转换和字段映射。它提供了命令行和图形界面两种使用方式，满足不同用户的需求。
